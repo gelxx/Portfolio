@@ -373,6 +373,8 @@ img
 {
     max-width: 50%;
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
     z-index: 8;
 }
 .about-section .about-image .img-box .about-shape

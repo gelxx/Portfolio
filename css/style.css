@@ -335,7 +335,7 @@ img
 .home-section .home-image .img-box img
 {
     position: relative;
-    width: 100%;
+    width: 150%;
     z-index: 789;
 }
 .header-hero-shape
